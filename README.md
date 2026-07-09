@@ -1,73 +1,130 @@
-# 💫 About Me
+# 💫 Aryan Sharma
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Aryan+Sharma;Aspiring+Full+Stack+Developer;Learning+Java+%26+DSA;Building+Projects)](https://git.io/typing-svg)
+> **Premium GitHub Profile README – Starter Edition**
 
-![](https://komarev.com/ghpvc/?username=dev-aryansharma&label=Profile%20Views&color=0e75b6&style=flat)
+# 👋 Hi, I'm Aryan Sharma
 
-🎓 B.Tech CSE Student (2nd Year)  
-💻 Aspiring Full Stack Developer  
-🌱 Currently learning Java, DSA & Web Development  
-🚀 Building real-world projects to strengthen my skills  
-💼 Open to internship opportunities and collaboration
+**💻 Aspiring Full Stack Developer**  
+**🎓 B.Tech CSE Student (2nd Year)**  
+**🌱 Learning Java, DSA & Web Development**
 
 ---
 
-## 🌐 Connect with Me
+# 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-aryansharma)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.17sharma1@gmail.com)
+| Field | Details |
+|-------|---------|
+| 👤 Name | Aryan Sharma |
+| 📍 Location | Sonipat, Haryana, India |
+| 🎓 Education | B.Tech CSE (2nd Year) |
+| 🏫 Institute | Gateway Institute of Engineering & Technology |
+| 💼 Goal | Become a Full Stack Developer |
+| 📧 Email | aryan.17sharma1@gmail.com |
+
+### 🚀 What I'm Doing
+
+- 💻 Building Full Stack Web Development projects
+- 🌱 Learning Java, Data Structures & Algorithms
+- 📚 Improving problem-solving skills
+- 🤝 Open to internship opportunities and collaboration
 
 ---
 
-# 💻 Tech Stack
+# 🌐 Connect With Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+- LinkedIn: https://linkedin.com/in/dev-aryansharma
+- GitHub: https://github.com/dev-aryansharma
+- Email: aryan.17sharma1@gmail.com
 
 ---
 
-# 🚀 Projects
+# 🛠️ Tech Stack
 
-- 🧮 Calculator (HTML, CSS & JavaScript)
+## Languages
+- HTML5
+- CSS3
+- JavaScript
+- Java
+
+## Tools
+- Git
+- GitHub
+- VS Code
+- Netlify
+
+---
+
+# 📚 Currently Learning
+
+| Domain | Topics |
+|--------|--------|
+| Java | OOP, Collections |
+| DSA | Arrays, Strings, Recursion |
+| Web Development | HTML, CSS, JavaScript |
+| Git | GitHub Workflow |
+
+---
+
+# 💼 Experience
+
+| Role | Organization |
+|------|--------------|
+| Frontend Developer Intern | InternPe |
+| Frontend Developer Intern | DecodeLabs |
+
+---
+
+# 🚀 Featured Projects
+
+- 🧮 Calculator (HTML/CSS/JS)
 - 🚗 Swift RS Landing Page
-- 🛒 TechMart X Website
-
-> More exciting projects coming soon...
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dev-aryansharma&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-aryansharma&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aryansharma&layout=compact&theme=tokyonight)
+- 🛒 TechMart X
+- ☕ Java Practice Programs
+- 🌐 Portfolio Website (Coming Soon)
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=dev-aryansharma&theme=tokyonight&margin-w=8)
+Add these widgets after creating your profile:
 
----
-
-## 📈 GitHub Activity Graph
-
-[![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-aryansharma&theme=tokyo-night)](https://github.com/dev-aryansharma)
-
----
-
-### ⚡ Quote
-
-> *"Consistency beats intensity. Build. Learn. Improve."*
+- GitHub Readme Stats
+- Top Languages
+- GitHub Streak
+- GitHub Activity Graph
+- GitHub Trophies
+- Contribution Snake
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+# 🎯 Current Focus
+
+| Skill | Progress |
+|------|----------|
+| HTML/CSS | █████████░ 90% |
+| JavaScript | ███████░░░ 70% |
+| Java | ████████░░ 80% |
+| DSA | ██████░░░░ 60% |
+| Git/GitHub | ████████░░ 80% |
+
+---
+
+# 📋 Recruiter Snapshot
+
+| Field | Value |
+|------|-------|
+| Name | Aryan Sharma |
+| Role | Aspiring Full Stack Developer |
+| Skills | HTML, CSS, JavaScript, Java, Git |
+| Open To | Internship Opportunities |
+| Location | Sonipat, Haryana |
+
+---
+
+## 💬 Quote
+
+> *"Every expert was once a beginner. Keep building."*
+
+---
+
+⭐ Thanks for visiting my profile!
