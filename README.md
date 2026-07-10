@@ -24,7 +24,6 @@
 - 💻 Aspiring Full Stack Developer
 - 🌱 Learning **Java, DSA & Full Stack Web Development**
 - 🚀 Building responsive web applications
-- 💼 Web Development Intern at **InternPe** & **DecodeLabs**
 - 📍 Sonipat, Haryana, India
 - 🤝 Open to internships & collaborations
 
@@ -142,7 +141,9 @@ https://github.com/dev-aryansharma/neontech_ecommerce.website
 <p align="center">
 <img src="https://raw.githubusercontent.com/dev-aryansharma/dev-aryansharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
+
 ---
+
 ## 🎯 2026 Goals
 
 - ☕ Master Java
