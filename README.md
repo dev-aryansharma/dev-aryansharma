@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Aryan Sharma Banner">
+</p>
 
+<br>
 # 👋 Hi, I'm Aryan Sharma
 
 <p align="center">
