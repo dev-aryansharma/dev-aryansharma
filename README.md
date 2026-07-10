@@ -109,8 +109,8 @@ https://github.com/dev-aryansharma/neontech_ecommerce.website
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-aryansharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aryansharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dev-aryansharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-aryansharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -126,13 +126,15 @@ https://github.com/dev-aryansharma/neontech_ecommerce.website
 </p>
 
 ---
+---
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-aryansharma&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-aryansharma&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
+---
 ---
 
 # 🐍 Contribution Snake
