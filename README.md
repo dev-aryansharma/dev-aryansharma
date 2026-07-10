@@ -27,7 +27,9 @@
 <p>
 <a href="https://github.com/dev-aryansharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 <a href="https://linkedin.com/in/dev-aryansharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:aryan.17sharma1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:aryan.17sharma1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </p>
 
 ---
@@ -90,17 +92,14 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-aryansharma&theme=tokyo-night)](https://github.com/dev-aryansharma)
 
 ---
-
 ## 🎯 2026 Goals
 
-- ✅ Master Java
-- ✅ Strengthen DSA
-- 🔄 Learn React
-- 🔄 Learn Node.js & Express
-- 🔄 Learn MongoDB
-- 🚀 Build 20+ Projects
-- 💼 Secure a Software Development Internship
-
+- ☕ Master Java
+- 🧠 Master DSA
+- 🌐 Learn Full-Stack Web Development
+- 💻 Build Impactful Projects
+- 📂 Grow My GitHub Portfolio
+- 💼 Secure a Web Development Internship
 ---
 
 ## 💬 Quote
