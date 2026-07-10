@@ -109,13 +109,12 @@ https://github.com/dev-aryansharma/neontech_ecommerce.website
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-aryansharma&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aryansharma&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-aryansharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aryansharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=dev-aryansharma&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=dev-aryansharma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -123,7 +122,7 @@ https://github.com/dev-aryansharma/neontech_ecommerce.website
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dev-aryansharma&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-aryansharma&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
